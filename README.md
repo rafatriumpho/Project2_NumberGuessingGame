@@ -1,4 +1,4 @@
-\# Number Guessing Game (Python)
+# Number Guessing Game (Python)
 
 
 
@@ -8,57 +8,57 @@ The program generates a random number and lets the user guess it through the ter
 
 
 
-\## How the Game Works
+## How the Game Works
 
-\- The program generates a random number between 1 and 100
+- The program generates a random number between 1 and 100
 
-\- The user keeps guessing until they get it right
+- The user keeps guessing until they get it right
 
-\- After each guess, the program tells the user if the number is higher or lower
+- After each guess, the program tells the user if the number is higher or lower
 
-\- The game counts how many attempts were made
+- The game counts how many attempts were made
 
-\- The user can type 0 at any time to quit the game
-
-
-
-\## Features
-
-\- Random number generation
-
-\- Unlimited guesses
-
-\- Guess counter
-
-\- Higher / lower hints
-
-\- Exit option
-
-\- First-try win message
+- The user can type 0 at any time to quit the game
 
 
 
-\## What I Learned
+## Features
 
-\- While loops
+- Random number generation
 
-\- Nested loops
+- Unlimited guesses
 
-\- Conditional statements (if / else)
+- Guess counter
 
-\- Using the random module
+- Higher / lower hints
 
-\- Writing cleaner logic
+- Exit option
 
-\- Debugging my own code
+- First-try win message
 
 
 
-\## How to Run
+## What I Learned
 
-1\. Make sure Python is installed
+- While loops
 
-2\. Run the file in the terminal:
+- Nested loops
+
+- Conditional statements (if / else)
+
+- Using the random module
+
+- Writing cleaner logic
+
+- Debugging my own code
+
+
+
+## How to Run
+
+1. Make sure Python is installed
+
+2. Run the file in the terminal:
 
 ```bash
 
