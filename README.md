@@ -62,6 +62,6 @@ The program generates a random number and lets the user guess it through the ter
 
 ```bash
 
-python Project2\\\_NumberGuessingGame.py
+python Project2_NumberGuessingGame.py
 
 
